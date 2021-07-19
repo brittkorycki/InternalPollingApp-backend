@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\bin\Debug\InternalPollingApp.Models.dll.config
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\bin\Debug\InternalPollingApp.Models.dll
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\bin\Debug\InternalPollingApp.Models.pdb
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\obj\Debug\InternalPollingApp.Models.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\obj\Debug\InternalPollingApp.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\obj\Debug\InternalPollingApp.Models.csproj.CopyComplete
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\obj\Debug\InternalPollingApp.Models.dll
+C:\ElevenFiftyProjects\InternalPollingApp\InternalPollingApp.Models\obj\Debug\InternalPollingApp.Models.pdb
